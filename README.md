@@ -13,4 +13,4 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozanuslan&show_icons=true&locale=en&layout=compact&theme=dark" alt="ozanuslan" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178812293&cover_image=true&theme=natemoo-re&bar_color=ff7b00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11178812293&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11178812293&cover_image=true&theme=novatorem&bar_color=09ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11178812293&redirect=true)
