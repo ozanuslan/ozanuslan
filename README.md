@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ozan Uslan</h1>
+<h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center">Currently struggling my way through frameworks...</h3>
 
 - 🌱 I’m currently learning **Full-Stack Development 💻**
