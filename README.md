@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">Currently struggling my way through frameworks...</h3>
+<!-- <h3 align="center"></h3> -->
 
 - 🌱 I’m currently learning **Full-Stack Development 💻**
+- 💡 I'm interested in Distributed Systems and System Design
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
