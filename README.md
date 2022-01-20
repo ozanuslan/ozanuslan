@@ -6,7 +6,7 @@
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ozan-uslan-5611461a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozanuslan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ozan-uslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozanuslan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ozanuslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/hackerrank.svg" alt="ozanuslan" height="40" width="40" /></a>
 <a href="https://leetcode.com/ozanuslan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/leet-code.svg" alt="ozanuslan" height="40" width="40" /></a>
 <a href="https://ozanuslan.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/medium.svg" alt="ozanuslan" height="40" width="40" /></a>
