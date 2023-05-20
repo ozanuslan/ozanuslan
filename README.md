@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <!-- <h3 align="center"></h3> -->
 
-- 🌱 I’m currently learning **eBPF 🐝**
-- 💡 I'm interested in Distributed Systems and System Design
+- 🌱 I’m currently learning **Rust 🦀**
+- 💡 I'm interested in Distributed Systems
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
