@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 
-- 🌱 I’m currently learning **Rust 🦀**
-- 💡 I'm interested in Distributed Systems
+- ⚙️ I'm working on Distributed Systems
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
