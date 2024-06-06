@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 
-- ⚙️ I'm working on Distributed Systems
+- ⚙️ I'm pondering on Distributed Systems
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
